@@ -1,9 +1,9 @@
 {
-  "name": "💖PRINCE AVI MD💖",
-  "description": "Customizable WhatsApp Bot, CREATED BY AVISHKA SHAVINDA",
-  "repository": "https://github.com/avishka33/PRINCE-AVI-MD",
-  "logo": "https://avatars.githubusercontent.com/u/134716496?v=4.jpg",
-  "keywords": ["bot", "whatsapp", "whatsapp-bot", "💖Prince avi md 💖", "Avi-bot-md", "AVI-NET-HUNTER"],
+  "name": "𝛥𝐿𝛯𝛸 𝛲𝛪𝛫𝑈",
+  "description": "Customizable WhatsApp Bot, CREATED BY 𝛥𝐿𝛯𝛸 𝛲𝛪𝛫𝑈",
+  "repository": "https://github.com/piku0909",
+  "logo": "https://i.imghippo.com/files/bYE2631vjg.jpg",
+  "keywords": ["bot", "whatsapp", "whatsapp-bot", "𝛥𝐿𝛯𝛸 𝛲𝛪𝛫𝑈", "Avi-bot-md", "AVI-NET-HUNTER"],
   "buildpacks": [
     {
       "url": "heroku/nodejs"
